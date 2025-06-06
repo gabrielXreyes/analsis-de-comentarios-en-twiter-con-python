@@ -1,2 +1,1 @@
-# analsis-de-comentarios-en-twiter-con-python
-# analsis-de-comentarios-en-twiter-con-python
+ten cuidado con las direciones que le das al programa.
